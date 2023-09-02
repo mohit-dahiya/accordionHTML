@@ -1,2 +1,2 @@
-# accordionHTML
-a custom accordion based on plain HTML
+# Accordion HTML Component
+A custom accordion component based on plain HTML
