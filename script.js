@@ -1,5 +1,4 @@
 function showHide(str){
-    console.log(str);
     document.getElementById(str).classList.add("open");
 
     if(str === 'item1'){
